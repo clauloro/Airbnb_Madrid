@@ -1,4 +1,12 @@
-# Airbnb_Madrid
+# Airbnb_Madrid 
+
+## Nombres de usuario:
+frankiyonki, clauloro, alejandru00
+
+## Link del repositorio:
+[Github: https://github.com/clauloro/Airbnb_Madrid.git]
+
+*******************************************************
 
 # Actividad:
 
